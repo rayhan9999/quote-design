@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to left bottom, plum, thistle, white);
+    min-height: 80vh;
+    margin-top: 150px;
+    margin-left: 200px;
+
+}
+
+.rectangle {
+    width: 90%;
+    height: 180px;
+    background-color: black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 10px 20px black;
+
+}
+
+h1 {
+    color: rgb(218, 141, 154);
+    font-family: monospace;
+}
